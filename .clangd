@@ -1,4 +1,0 @@
-CompileFlags:
-  Add: [ ]
-  CompilationDatabase: ./build
-  Compiler: /usr/bin/c++
